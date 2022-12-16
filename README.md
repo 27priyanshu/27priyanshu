@@ -1,6 +1,8 @@
 # Hi there 👋
 
-<p>I am Priyanshu Singh, native app developer studying at college Univesity School of Automation and Robotics. Interested in technologies and software development. Connect with me on linkedin and github.</p>
+<p> My name is Priyanshu Singh and I am currently pursuing a BTech degree in Artificial Intelligence and Machine Learning. In addition to my academic studies, I have also gained practical experience in app development through various projects and internships.
+
+As a passionate learner and problem-solver, I am constantly seeking new opportunities to apply my skills and knowledge in real-world situations. I am particularly interested in using AI and ML to enhance the functionality and user experience of mobile applications..</p>
 
 <!--
 **27priyanshu/27priyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
