@@ -20,6 +20,8 @@ Here are some ideas to get you started: -->
   </a>
 </div>
 
+<h3>https://linktr.ee/27priyanshu</h3>
+
 <h2>About myself</h2>
 
 - 🔭 I’m currently working on Software Development Cell of USAR as a App developer
