@@ -9,6 +9,7 @@ As a passionate learner and problem-solver, I am constantly seeking new opportun
 
 Here are some ideas to get you started: -->
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -19,6 +20,8 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=27priyanshu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <h3>https://linktr.ee/27priyanshu</h3>
 
@@ -33,7 +36,8 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ☕Coffee is important part of coding
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=27priyanshu&theme=darcula)](https://github.com/27priyanshu)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=27priyanshu&theme=darcula)](https://github.com/27priyanshu)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=27priyanshu&theme=bear&hide_border=false)<br/>
 
 <h2>Language and tools</h2>
 
@@ -42,3 +46,5 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27priyanshu&layout=compact&theme=darcula)](https://github.com/27priyanshu)
 
 [![@27priyanshu's Holopin board](https://holopin.me/27priyanshu)](https://holopin.io/@27priyanshu)
+
+
